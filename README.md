@@ -14,6 +14,15 @@ Resources for running a halloween witness in your neighbourhood. Check out our b
 
 The SVG files are the original source files, and these can be edited in Inkscape. Adobe Illustrator will probably work fine as well.
 
+### Fonts
+
+The custom fonts used in this project are:
+
+ * [League Spartan](https://www.theleagueofmoveabletype.com/league-spartan)
+ * [Cabin](https://www.fontsquirrel.com/fonts/cabin)
+ 
+These are both free to use.
+
 ## DOCX and PNG files
 
 The PNG files are images which can be imported into your desktop publishing package of choice for printing. I recommend using borderless printing.

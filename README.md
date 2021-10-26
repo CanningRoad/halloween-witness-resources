@@ -6,9 +6,23 @@ Resources for running a halloween witness in your neighbourhood. Check out our b
 
 ## Directories
 
-	/docx - Contains ready-to-print word documents of the crafts and some signs
-	/png - Contains image files of the craft pages which can be imported into any desktop publishing package
-	/svg - Contains the original source files for the graphics
+### Pre 2020
+
+```
+/docx - Contains ready-to-print word documents of the crafts and some signs
+/png - Contains image files of the craft pages which can be imported into any desktop publishing package
+/svg - Contains the original source files for the graphics
+```
+
+### New for 2021
+
+Do you ever feel scared? What are you afraid of?
+
+In 2021, we are providing kids with a choice of two "poster kits" that they can hang in their rooms to remind them that God is for them, and loves them, and that his light cannot be overcome by darkness. They are designed to be decorated with colouring pens, and stick-on items like gems and emoji stickers.
+
+See the directory `/2021` which contains printable A4 PDFs, and source images in PNG and SVG.
+
+The fonts are League Spartan and 'Lived Mas'
 
 ## Editing
 
@@ -18,10 +32,11 @@ The SVG files are the original source files, and these can be edited in Inkscape
 
 The custom fonts used in this project are:
 
- * [League Spartan](https://www.theleagueofmoveabletype.com/league-spartan)
- * [Cabin](https://www.fontsquirrel.com/fonts/cabin)
+ + [League Spartan](https://www.theleagueofmoveabletype.com/league-spartan)
+ + [Cabin](https://www.fontsquirrel.com/fonts/cabin)
+ + [Lived Mas](https://www.fontspace.com/lived-mas-new-with-numbers-font-f22013)
  
-These are both free to use.
+These are all free to use.
 
 ## DOCX and PNG files
 
